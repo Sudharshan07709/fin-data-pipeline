@@ -14,7 +14,7 @@ services:
     depends_on:
       - zookeeper
     ports:
-      - "9092:9092"   # internal Docker network
+      - "9092:9092"   # internal Docker 
       - "29092:29092" # host machine access
     environment:
       KAFKA_BROKER_ID: 1
