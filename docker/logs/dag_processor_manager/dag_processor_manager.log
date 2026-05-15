@@ -34,3 +34,21 @@
 [2026-05-03T20:33:56.484+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
 [2026-05-03T20:33:56.492+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
 [2026-05-03T20:37:37.760+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2026-05-15T21:57:13.150+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-05-15T21:57:13.152+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-05-15T21:57:13.154+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-05-15T21:57:13.155+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-15T21:57:13.162+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-15T22:02:13.654+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-15T22:02:13.659+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-15T22:07:13.975+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-15T22:07:13.978+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-15T22:12:14.241+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-15T22:12:14.245+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-15T22:17:14.442+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-15T22:17:14.447+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-15T22:22:14.665+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-15T22:22:14.669+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-15T22:27:14.901+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-15T22:27:14.907+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-05-15T22:32:08.200+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
